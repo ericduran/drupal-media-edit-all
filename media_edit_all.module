@@ -85,7 +85,7 @@ function media_edit_all_library() {
   // Library One.
   $libraries['media.editAll'] = array(
     'title' => 'Media Edit All',
-    'website' => 'https://github.com/NBCUOTS/Publisher7',
+    'website' => 'https://github.com/ericduran/drupal-media-edit-all',
     'version' => '1.0',
     'js' => array(
       drupal_get_path('module', 'media_edit_all') . '/js/media-edit-all.js' => array(),
